@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Farmadif</string>
+    <string name="title_medicaments">Medicamentos</string>
+    <string name="title_medicaments_requerid">M. Requeridos</string>
+    <string name="title_contact">Contacto</string>
+    <string name="title_quantity_medicament">Cantidad: </string>
+    <string name="is_offline">No hay conexión</string>
+    <string name="search_title">Buscar</string>
+    <string name="search_hint">Buscar un medicamento</string>
+</resources>

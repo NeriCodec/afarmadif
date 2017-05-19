@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464646624951",
+    "firebase_url": "https://farmadif-18a9c.firebaseio.com",
+    "project_id": "farmadif-18a9c",
+    "storage_bucket": "farmadif-18a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464646624951:android:d066e523378fed39",
+        "android_client_info": {
+          "package_name": "com.farmadif.neri.afarmadif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464646624951-0cm0nc31r3r55q004ns05fvpmvmmmn9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmadif.neri.afarmadif",
+            "certificate_hash": "08a33fa748e93805c8de9871040f75c4fe67e4f8"
+          }
+        },
+        {
+          "client_id": "464646624951-d2ccjh1ob7qgomuf4o8ed4prgifip0ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-PHqyu2cfhdachEw-fh31GhWKynQoNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464646624951-d2ccjh1ob7qgomuf4o8ed4prgifip0ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

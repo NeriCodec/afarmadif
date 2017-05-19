@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_medicaments"
+        android:icon="@drawable/ic_medicamentos"
+        android:title="@string/title_medicaments" />
+
+    <item
+        android:id="@+id/navigation_medicaments_required"
+        android:icon="@drawable/ic_medicamentos_requeridos"
+        android:title="@string/title_medicaments_requerid" />
+
+    <item
+        android:id="@+id/navigation_contact"
+        android:icon="@drawable/ic_contacto"
+        android:title="@string/title_contact" />
+
+</menu>
